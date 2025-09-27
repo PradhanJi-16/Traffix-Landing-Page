@@ -49,7 +49,7 @@ Data Handling: Pandas
 
 <h3>🛠️ Installation</h3>
 1. Clone the repository:
-   git clone https://github.com/lkshayb/Traffix-Landing-Page
+   git clone (https://github.com/PradhanJi-16/Traffix-Landing-Page)
    cd Traffix-Landing-Page
 
 2. Install dependencies:
@@ -65,6 +65,11 @@ Data Handling: Pandas
   
   Deploy easily with "Vercel" or any static hosting provider.
 
+<h3>🖥️ Website</h3>
+
+   https://traffix-landing-page-3biz.vercel.app/
+
+   
 <h3>🤝 Contributing</h3>
   1. Fork the project
   
